@@ -44,6 +44,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 [jekyll中文官网](http://jekyllcn.com/)
 
+[GitHub Help](https://help.github.com/categories/github-pages-basics/)
+
 [Adding a Jekyll theme to your GitHub Pages site](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/)
 
 [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes)
