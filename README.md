@@ -41,9 +41,14 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### 参考链接：
 
 [GitHub Pages](https://pages.github.com/)
+
 [jekyll中文官网](http://jekyllcn.com/)
+
 [Adding a Jekyll theme to your GitHub Pages site](https://help.github.com/articles/adding-a-jekyll-theme-to-your-github-pages-site/)
+
 [Minimal Mistakes Jekyll Theme](https://github.com/mmistakes/minimal-mistakes)
+
+[一步步在GitHub上创建博客主页-最新版 ](http://www.pchou.info/ssgithubPage/2014-07-04-build-github-blog-page-08.html)
 
 
 
