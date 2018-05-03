@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-05-03T21:08:07+08:00</updated><id>http://localhost:4000/</id><title type="html">俊杰语录</title><subtitle>主要记录个人成长过程。</subtitle><author><name>喜相逢v5</name></author><entry><title type="html">安装电脑步骤</title><link href="http://localhost:4000/%E5%AE%89%E8%A3%85%E7%94%B5%E8%84%91%E6%AD%A5%E9%AA%A4/" rel="alternate" type="text/html" title=" 安装电脑步骤" /><published>2018-04-25T00:00:00+08:00</published><updated>2018-04-25T00:00:00+08:00</updated><id>http://localhost:4000/%20%E5%AE%89%E8%A3%85%E7%94%B5%E8%84%91%E6%AD%A5%E9%AA%A4</id><content type="html" xml:base="http://localhost:4000/%E5%AE%89%E8%A3%85%E7%94%B5%E8%84%91%E6%AD%A5%E9%AA%A4/">&lt;h1 id=&quot;安装电脑步骤&quot;&gt;安装电脑步骤&lt;/h1&gt;
+&lt;p&gt;MAC 抹掉磁盘重装系统之后，需要安装一些必要的软件。该文档就是针对自己生活和工作中经常用到软件做一个安装步骤归纳。&lt;/p&gt;
+&lt;h2 id=&quot;一安装appstroe中安装的软件&quot;&gt;一、安装Appstroe中安装的软件&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;wechat&lt;/li&gt;
+  &lt;li&gt;Xcode&lt;/li&gt;
+  &lt;li&gt;QQ&lt;/li&gt;
+  &lt;li&gt;FireFox/chrome&lt;/li&gt;
+  &lt;li&gt;有道云笔记&lt;/li&gt;
+  &lt;li&gt;有道云词典&lt;/li&gt;
+  &lt;li&gt;QQ音乐&lt;/li&gt;
+  &lt;li&gt;网易云音乐&lt;/li&gt;
+  &lt;li&gt;爱奇艺/腾讯视频&lt;/li&gt;
+  &lt;li&gt;同花顺&lt;/li&gt;
+  &lt;li&gt;讯飞语音输入&lt;/li&gt;
+  &lt;li&gt;MindNode&lt;/li&gt;
+  &lt;li&gt;Alfred&lt;/li&gt;
+  &lt;li&gt;OmniGraffle&lt;/li&gt;
+  &lt;li&gt;iZip Unarchiver&lt;/li&gt;
+  &lt;li&gt;Evernote&lt;/li&gt;
+  &lt;li&gt;XMind&lt;/li&gt;
+  &lt;li&gt;Trello&lt;/li&gt;
+  &lt;li&gt;Netfits (VPN)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;二通过ifunmac安装破解版软件&quot;&gt;二、通过ifunmac安装破解版软件&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;iTerm2&lt;/li&gt;
+  &lt;li&gt;MWeb&lt;/li&gt;
+  &lt;li&gt;Sublime Text&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;三常用的一些网址&quot;&gt;三、常用的一些网址&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;iTerm2 配色方案 https://www.cnblogs.com/weixuqin/p/7029177.html&lt;/li&gt;
+  &lt;li&gt;Homebrew安装 https://brew.sh/index_zh-cn&lt;/li&gt;
+  &lt;li&gt;配置gitconfig. https://git-scm.com/book/zh/v2&lt;/li&gt;
+  &lt;li&gt;www.developer.com&lt;/li&gt;
+  &lt;li&gt;www.baidu.com&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>喜相逢v5</name></author><summary type="html">安装电脑步骤 MAC 抹掉磁盘重装系统之后，需要安装一些必要的软件。该文档就是针对自己生活和工作中经常用到软件做一个安装步骤归纳。 一、安装Appstroe中安装的软件 wechat Xcode QQ FireFox/chrome 有道云笔记 有道云词典 QQ音乐 网易云音乐 爱奇艺/腾讯视频 同花顺 讯飞语音输入 MindNode Alfred OmniGraffle iZip Unarchiver Evernote XMind Trello Netfits (VPN)</summary></entry><entry><title type="html">iTerm2 配色方案</title><link href="http://localhost:4000/iterm2/iTerm2-%E9%85%8D%E8%89%B2%E6%96%B9%E6%A1%88/" rel="alternate" type="text/html" title="iTerm2 配色方案" /><published>2018-04-14T13:07:39+08:00</published><updated>2018-04-14T13:07:39+08:00</updated><id>http://localhost:4000/iterm2/iTerm2%20%E9%85%8D%E8%89%B2%E6%96%B9%E6%A1%88</id><content type="html" xml:base="http://localhost:4000/iterm2/iTerm2-%E9%85%8D%E8%89%B2%E6%96%B9%E6%A1%88/">&lt;h1 id=&quot;iterm2-配色方案&quot;&gt;iTerm2 配色方案&lt;/h1&gt;
+&lt;p&gt;[TOC]&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;iTerm2 + oh-my-zsh + solarized&lt;/code&gt; 配色方案&lt;/p&gt;
+
+&lt;h2 id=&quot;安装-oh-my-zsh&quot;&gt;安装 &lt;code class=&quot;highlighter-rouge&quot;&gt;oh-my-zsh&lt;/code&gt;&lt;/h2&gt;
+&lt;p&gt;使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;crul&lt;/code&gt; 安装&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; sh -c &quot;$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;设置主题&quot;&gt;设置主题&lt;/h2&gt;
+&lt;p&gt;打开 &lt;code class=&quot;highlighter-rouge&quot;&gt;～/.zshrc&lt;/code&gt; 文件，修改主题为：&lt;code class=&quot;highlighter-rouge&quot;&gt;agnoster&lt;/code&gt; :&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ZSH_THEME=&quot;agnoster&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;应用这个主题需要特殊的字体支持，否则会出现乱码情况，这时我们来配置字体
+1.使用&lt;a href=&quot;https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf&quot;&gt;Meslo&lt;/a&gt;字体，点开连接点击 &lt;code class=&quot;highlighter-rouge&quot;&gt;view raw&lt;/code&gt; 下载字体。&lt;/p&gt;
+
+&lt;p&gt;2.安装字体到系统字体册。&lt;/p&gt;
+
+&lt;p&gt;3.应用字体到 &lt;em&gt;iTerm2&lt;/em&gt; 下，我自己喜欢将字号设置为14px，看着舒服（iTerm -&amp;gt; Preferences -&amp;gt; Profiles -&amp;gt; Text -&amp;gt; Change Font）。&lt;/p&gt;
+
+&lt;p&gt;4.重新打开 iTerm2 窗口，这时便可以看到效果了。
+&lt;img src=&quot;/assets/images/15236876694202/15236882285207.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;语法高亮&quot;&gt;语法高亮&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;安装 &lt;code class=&quot;highlighter-rouge&quot;&gt;Homebrew&lt;/code&gt;命令&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ruby -e &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;使用 &lt;code class=&quot;highlighter-rouge&quot;&gt;Homebrew&lt;/code&gt; 安装 &lt;code class=&quot;highlighter-rouge&quot;&gt;zsh-syntax-highlighting&lt;/code&gt; 插件&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;brew install zsh-syntax-highlighting
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;打开&lt;code class=&quot;highlighter-rouge&quot;&gt;.zshrc&lt;/code&gt;文件，在文件中插入一行&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;应用配置文件，输入命令&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;source ~/.zshrc
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;效果如下：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/15236876694202/xiaoguo.png&quot; alt=&quot;效果图&quot; /&gt;&lt;/p&gt;</content><author><name>喜相逢v5</name></author><summary type="html">iTerm2 配色方案 [TOC]</summary></entry><entry><title type="html">Markdown 语法和 mweb写作使用说明</title><link href="http://localhost:4000/Markdown-%E8%AF%AD%E6%B3%95%E5%92%8C-MWeb%E5%86%99%E4%BD%9C%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/" rel="alternate" type="text/html" title="Markdown 语法和 mweb写作使用说明" /><published>2018-04-14T00:00:00+08:00</published><updated>2018-04-14T00:00:00+08:00</updated><id>http://localhost:4000/Markdown%20%E8%AF%AD%E6%B3%95%E5%92%8C%20MWeb%E5%86%99%E4%BD%9C%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E</id><content type="html" xml:base="http://localhost:4000/Markdown-%E8%AF%AD%E6%B3%95%E5%92%8C-MWeb%E5%86%99%E4%BD%9C%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/">&lt;h1 id=&quot;markdown-语法和-mweb-写作使用说明&quot;&gt;Markdown 语法和 MWeb 写作使用说明&lt;/h1&gt;
+
+&lt;h2 id=&quot;markdown-的设计哲学&quot;&gt;Markdown 的设计哲学&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Markdown 的目標是實現「易讀易寫」。
+不過最需要強調的便是它的可讀性。一份使用 Markdown 格式撰寫的文件應該可以直接以純文字發佈，並且看起來不會像是由許多標籤或是格式指令所構成。
+Markdown 的語法有個主要的目的：用來作為一種網路內容的&lt;em&gt;寫作&lt;/em&gt;用語言。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h2 id=&quot;本文约定&quot;&gt;本文约定&lt;/h2&gt;
+
+&lt;p&gt;如果有写 &lt;code class=&quot;highlighter-rouge&quot;&gt;效果如下：&lt;/code&gt;， 在 MWeb 编辑状态下只有用 &lt;code class=&quot;highlighter-rouge&quot;&gt;CMD + 4&lt;/code&gt; 或 &lt;code class=&quot;highlighter-rouge&quot;&gt;CMD + R&lt;/code&gt; 预览才可以看效果。&lt;/p&gt;
+
+&lt;h2 id=&quot;标题&quot;&gt;标题&lt;/h2&gt;
+
+&lt;p&gt;Markdown 语法：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# 第一级标题 `&amp;lt;h1&amp;gt;` 
+## 第二级标题 `&amp;lt;h2&amp;gt;` 
+###### 第六级标题 `&amp;lt;h6&amp;gt;` 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;效果如下：&lt;/p&gt;
+
+&lt;h1 id=&quot;第一级标题-h1&quot;&gt;第一级标题 &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;&lt;/h1&gt;
+&lt;h2 id=&quot;第二级标题-h2&quot;&gt;第二级标题 &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;h2&amp;gt;&lt;/code&gt;&lt;/h2&gt;
+&lt;h6 id=&quot;第六级标题-h6&quot;&gt;第六级标题 &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;h6&amp;gt;&lt;/code&gt;&lt;/h6&gt;
+
+&lt;h2 id=&quot;强调&quot;&gt;强调&lt;/h2&gt;
+
+&lt;p&gt;Markdown 语法：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;*这些文字会生成`&amp;lt;em&amp;gt;`*
+_这些文字会生成`&amp;lt;u&amp;gt;`_
+
+**这些文字会生成`&amp;lt;strong&amp;gt;`**
+__这些文字会生成`&amp;lt;strong&amp;gt;`__
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;在 MWeb 中的快捷键为： &lt;code class=&quot;highlighter-rouge&quot;&gt;CMD + U&lt;/code&gt;、&lt;code class=&quot;highlighter-rouge&quot;&gt;CMD + I&lt;/code&gt;、&lt;code class=&quot;highlighter-rouge&quot;&gt;CMD + B&lt;/code&gt;
+效果如下：&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;这些文字会生成&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;&lt;/em&gt;
+&lt;em&gt;这些文字会生成&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;u&amp;gt;&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;这些文字会生成&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;&lt;/strong&gt;
+&lt;strong&gt;这些文字会生成&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;换行&quot;&gt;换行&lt;/h2&gt;
+
+&lt;p&gt;四个及以上空格加回车。
+如果不想打这么多空格，只要回车就为换行，请勾选：&lt;code class=&quot;highlighter-rouge&quot;&gt;Preferences&lt;/code&gt; - &lt;code class=&quot;highlighter-rouge&quot;&gt;Themes&lt;/code&gt; - &lt;code class=&quot;highlighter-rouge&quot;&gt;Translate newlines to &amp;lt;br&amp;gt; tags&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;列表&quot;&gt;列表&lt;/h2&gt;
+
+&lt;h3 id=&quot;无序列表&quot;&gt;无序列表&lt;/h3&gt;
+
+&lt;p&gt;Markdown 语法：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* 项目一 无序列表 `* + 空格键`
+* 项目二
+	* 项目二的子项目一 无序列表 `TAB + * + 空格键`
+	* 项目二的子项目二
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;在 MWeb 中的快捷键为： &lt;code class=&quot;highlighter-rouge&quot;&gt;Option + U&lt;/code&gt;
+效果如下：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;项目一 无序列表 &lt;code class=&quot;highlighter-rouge&quot;&gt;* + 空格键&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;项目二
+    &lt;ul&gt;
+      &lt;li&gt;项目二的子项目一 无序列表 &lt;code class=&quot;highlighter-rouge&quot;&gt;TAB + * + 空格键&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;项目二的子项目二&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;有序列表&quot;&gt;有序列表&lt;/h3&gt;
+
+&lt;p&gt;Markdown 语法：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. 项目一 有序列表 `数字 + . + 空格键`
+2. 项目二 
+3. 项目三
+	1. 项目三的子项目一 有序列表 `TAB + 数字 + . + 空格键`
+	2. 项目三的子项目二
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;效果如下：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;项目一 有序列表 &lt;code class=&quot;highlighter-rouge&quot;&gt;数字 + . + 空格键&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;项目二&lt;/li&gt;
+  &lt;li&gt;项目三
+    &lt;ol&gt;
+      &lt;li&gt;项目三的子项目一 有序列表 &lt;code class=&quot;highlighter-rouge&quot;&gt;TAB + 数字 + . + 空格键&lt;/code&gt;&lt;/li&gt;
+      &lt;li&gt;项目三的子项目二&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;任务列表task-lists&quot;&gt;任务列表（Task lists）&lt;/h3&gt;
+
+&lt;p&gt;Markdown 语法：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;- [ ] 任务一 未做任务 `- + 空格 + [ ]`
+- [x] 任务二 已做任务 `- + 空格 + [x]`
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;效果如下：&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;任务一 未做任务 &lt;code class=&quot;highlighter-rouge&quot;&gt;- + 空格 + [ ]&lt;/code&gt;&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;任务二 已做任务 &lt;code class=&quot;highlighter-rouge&quot;&gt;- + 空格 + [x]&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;图片&quot;&gt;图片&lt;/h2&gt;
+
+&lt;p&gt;Markdown 语法：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;![GitHub set up](http://zh.mweb.im/asset/img/set-up-git.gif)
+格式: ![Alt Text](url)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Control + Shift + I&lt;/code&gt; 可插入Markdown语法。
+如果是 MWeb 的文档库中的文档，还可以用拖放图片、&lt;code class=&quot;highlighter-rouge&quot;&gt;CMD + V&lt;/code&gt; 粘贴、&lt;code class=&quot;highlighter-rouge&quot;&gt;CMD + Option + I&lt;/code&gt; 导入这三种方式来增加图片。
+效果如下：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://zh.mweb.im/asset/img/set-up-git.gif&quot; alt=&quot;GitHub set up&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;MWeb 引入的特别的语法来设置图片宽度，方法是在图片描述后加 &lt;code class=&quot;highlighter-rouge&quot;&gt;-w + 图片宽度&lt;/code&gt; 即可，比如说要设置上面的图片的宽度为 140，语法如下：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://zh.mweb.im/asset/img/set-up-git.gif&quot; alt=&quot;GitHub set up-w140&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;链接&quot;&gt;链接&lt;/h2&gt;
+
+&lt;p&gt;Markdown 语法：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;email &amp;lt;example@example.com&amp;gt;
+[GitHub](http://github.com)
+自动生成连接  &amp;lt;http://www.github.com/&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;Control + Shift + L&lt;/code&gt; 可插入Markdown语法。
+如果是 MWeb 的文档库中的文档，拖放或&lt;code class=&quot;highlighter-rouge&quot;&gt;CMD + Option + I&lt;/code&gt; 导入非图片时，会生成连接。
+效果如下：&lt;/p&gt;
+
+&lt;p&gt;Email 连接： &lt;a href=&quot;mailto:example@example.com&quot;&gt;example@example.com&lt;/a&gt;
+&lt;a href=&quot;http://github.com&quot;&gt;连接标题Github网站&lt;/a&gt;
+自动生成连接像： &lt;a href=&quot;http://www.github.com/&quot;&gt;http://www.github.com/&lt;/a&gt; 这样&lt;/p&gt;
+
+&lt;h2 id=&quot;区块引用&quot;&gt;区块引用&lt;/h2&gt;
+
+&lt;p&gt;Markdown 语法：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;某某说:
+&amp;gt; 第一行引用
+&amp;gt; 第二行费用文字
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CMD + Shift + B&lt;/code&gt; 可插入Markdown语法。
+效果如下：&lt;/p&gt;
+
+&lt;p&gt;某某说:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;第一行引用
+第二行费用文字&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;行内代码&quot;&gt;行内代码&lt;/h2&gt;
+
+&lt;p&gt;Markdown 语法：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;像这样即可：`&amp;lt;addr&amp;gt;` `code`
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CMD + K&lt;/code&gt; 可插入Markdown语法。
+效果如下：&lt;/p&gt;
+
+&lt;p&gt;像这样即可：&lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;addr&amp;gt;&lt;/code&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;code&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;多行或者一段代码&quot;&gt;多行或者一段代码&lt;/h2&gt;
+
+&lt;p&gt;Markdown 语法：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;```js
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+
+}
+```
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CMD + Shift + K&lt;/code&gt; 可插入Markdown语法。
+效果如下：&lt;/p&gt;
+
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;fancyAlert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;arg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;arg&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+		&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;facebox&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;div&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'#foo'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;})&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;顺序图或流程图&quot;&gt;顺序图或流程图&lt;/h2&gt;
+
+&lt;p&gt;Markdown 语法：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;```sequence
+张三-&amp;gt;李四: 嘿，小四儿, 写博客了没?
+Note right of 李四: 李四愣了一下，说：
+李四--&amp;gt;张三: 忙得吐血，哪有时间写。
+```
+
+```flow
+st=&amp;gt;start: 开始
+e=&amp;gt;end: 结束
+op=&amp;gt;operation: 我的操作
+cond=&amp;gt;condition: 确认？
+
+st-&amp;gt;op-&amp;gt;cond
+cond(yes)-&amp;gt;e
+cond(no)-&amp;gt;op
+```
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;效果如下（ &lt;code class=&quot;highlighter-rouge&quot;&gt;Preferences&lt;/code&gt; - &lt;code class=&quot;highlighter-rouge&quot;&gt;Themes&lt;/code&gt; - &lt;code class=&quot;highlighter-rouge&quot;&gt;Enable sequence &amp;amp; flow chart&lt;/code&gt; 才会看到效果 ）：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-sequence&quot;&gt;张三-&amp;gt;李四: 嘿，小四儿, 写博客了没?
+Note right of 李四: 李四愣了一下，说：
+李四--&amp;gt;张三: 忙得吐血，哪有时间写。
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-flow&quot;&gt;st=&amp;gt;start: 开始
+e=&amp;gt;end: 结束
+op=&amp;gt;operation: 我的操作
+cond=&amp;gt;condition: 确认？
+
+st-&amp;gt;op-&amp;gt;cond
+cond(yes)-&amp;gt;e
+cond(no)-&amp;gt;op
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;更多请参考：&lt;a href=&quot;http://bramp.github.io/js-sequence-diagrams/&quot;&gt;http://bramp.github.io/js-sequence-diagrams/&lt;/a&gt;, &lt;a href=&quot;http://adrai.github.io/flowchart.js/&quot;&gt;http://adrai.github.io/flowchart.js/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;表格&quot;&gt;表格&lt;/h2&gt;
+
+&lt;p&gt;Markdown 语法：&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-txt&quot;&gt;第一格表头 | 第二格表头
+--------- | -------------
+内容单元格 第一列第一格 | 内容单元格第二列第一格
+内容单元格 第一列第二格 多加文字 | 内容单元格第二列第二格
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;效果如下：&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;第一格表头&lt;/th&gt;
+      &lt;th&gt;第二格表头&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;内容单元格 第一列第一格&lt;/td&gt;
+      &lt;td&gt;内容单元格第二列第一格&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;内容单元格 第一列第二格 多加文字&lt;/td&gt;
+      &lt;td&gt;内容单元格第二列第二格&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;删除线&quot;&gt;删除线&lt;/h2&gt;
+
+&lt;p&gt;Markdown 语法：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;加删除线像这样用： ~~删除这些~~
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;效果如下：&lt;/p&gt;
+
+&lt;p&gt;加删除线像这样用： &lt;del&gt;删除这些&lt;/del&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;分隔线&quot;&gt;分隔线&lt;/h2&gt;
+
+&lt;p&gt;以下三种方式都可以生成分隔线：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;***
+
+*****
+
+- - -
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;效果如下：&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;mathjax&quot;&gt;MathJax&lt;/h2&gt;
+
+&lt;p&gt;Markdown 语法：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;块级公式：
+$$	x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
+
+\\[ \frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} =
+1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}}
+{1+\frac{e^{-8\pi}} {1+\ldots} } } } \\]
+
+行内公式： $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;效果如下（&lt;code class=&quot;highlighter-rouge&quot;&gt;Preferences&lt;/code&gt; - &lt;code class=&quot;highlighter-rouge&quot;&gt;Themes&lt;/code&gt; - &lt;code class=&quot;highlighter-rouge&quot;&gt;Enable MathJax&lt;/code&gt; 才会看到效果）：&lt;/p&gt;
+
+&lt;p&gt;块级公式：
+&lt;script type=&quot;math/tex&quot;&gt;x = \dfrac{-b \pm \sqrt{b^2 - 4ac}}{2a}&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;\[ \frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} =
+1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}}
+{1+\frac{e^{-8\pi}} {1+\ldots} } } } \]&lt;/p&gt;
+
+&lt;p&gt;行内公式： $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$&lt;/p&gt;
+
+&lt;h2 id=&quot;脚注footnote&quot;&gt;脚注（Footnote）&lt;/h2&gt;
+
+&lt;p&gt;Markdown 语法：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;这是一个脚注：[^sample_footnote]
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;效果如下：&lt;/p&gt;
+
+&lt;p&gt;这是一个脚注：&lt;sup id=&quot;fnref:sample_footnote&quot;&gt;&lt;a href=&quot;#fn:sample_footnote&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;注释和阅读更多&quot;&gt;注释和阅读更多&lt;/h2&gt;
+
+&lt;!-- comment --&gt;
+&lt;!-- more --&gt;
+
+&lt;p&gt;Actions-&amp;gt;Insert Read More Comment &lt;em&gt;或者&lt;/em&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;Command + .&lt;/code&gt;
+&lt;strong&gt;注&lt;/strong&gt; 阅读更多的功能只用在生成网站或博客时，插入时注意要后空一行。&lt;/p&gt;
+
+&lt;h2 id=&quot;toc&quot;&gt;TOC&lt;/h2&gt;
+
+&lt;p&gt;Markdown 语法：&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[TOC]
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;效果如下：&lt;/p&gt;
+
+&lt;p&gt;[TOC]&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:sample_footnote&quot;&gt;
+      &lt;p&gt;这里是脚注信息 &lt;a href=&quot;#fnref:sample_footnote&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>喜相逢v5</name></author><summary type="html">Markdown 语法和 MWeb 写作使用说明</summary></entry><entry><title type="html">欢迎使用 mweb</title><link href="http://localhost:4000/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8-MWeb/" rel="alternate" type="text/html" title=" 欢迎使用 mweb" /><published>2018-04-14T00:00:00+08:00</published><updated>2018-04-14T00:00:00+08:00</updated><id>http://localhost:4000/%20%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8%20MWeb</id><content type="html" xml:base="http://localhost:4000/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8-MWeb/">&lt;hr /&gt;
+&lt;p&gt;title: “Post: Header Image with OpenGraph Override”
+header:
+  image: /assets/images/15236876694202/屏幕快照 2018-04-14 下午3.24.04 
+  og_image: /assets/images/15236876694202/屏幕快照 2018-04-14 下午3.24.04
+categories:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Layout&lt;/li&gt;
+  &lt;li&gt;Uncategorized
+tags:&lt;/li&gt;
+  &lt;li&gt;edge case&lt;/li&gt;
+  &lt;li&gt;image&lt;/li&gt;
+  &lt;li&gt;layout
+last_modified_at: 2018-04-14T15:12:19-04:00
+—&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;欢迎使用-mweb&quot;&gt;欢迎使用 MWeb&lt;/h1&gt;
+
+&lt;p&gt;首先介绍一下 MWeb 是什么，MWeb 是专业的 Markdown 写作、记笔记、静态博客生成软件。MWeb 使用的是 Github Flavored Markdown 语法，在使用 MWeb 前，建议你一定要去 &lt;a href=&quot;http://zh.mweb.im/&quot;&gt;MWeb 官网首页&lt;/a&gt; 看一下介绍视频，MWeb 官网也做了比较详细的帮助，建议你也看一下大概内容，帮助的网址为：&lt;a href=&quot;http://zh.mweb.im/help.html&quot;&gt;http://zh.mweb.im/help.html&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h2 id=&quot;需要您重点注意的&quot;&gt;需要您重点注意的&lt;/h2&gt;
+
+&lt;p&gt;MWeb 是有&lt;strong&gt;两种模式&lt;/strong&gt;的：外部模式和文档库模式。MWeb 为了满足所有 Markdown 使用需求，设计了两种模式！外部模式用于打开和编辑所有本地 Markdown 文档。另外为了方便用 Markdown 记笔记，MWeb 设计了文档库模式，文档库中的文档也支持一键生成静态博客，以便于分享。关于两个模式的情况，还是建议您去看一下官网的视频和帮助。&lt;/p&gt;
+
+&lt;h2 id=&quot;帮助我们改进-mweb&quot;&gt;帮助我们改进 MWeb&lt;/h2&gt;
+
+&lt;p&gt;如果你喜欢 MWeb，想让它变得更好，你可以：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;推荐 MWeb，让更多的人知道。&lt;/li&gt;
+  &lt;li&gt;给我们发反馈和建议：&amp;lt;coderforart+233@gmail.com&amp;gt;&lt;/li&gt;
+  &lt;li&gt;在 Mac App Store 上评价 （如果是在 MAS 上购买的话）。&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>喜相逢v5</name></author><summary type="html">title: “Post: Header Image with OpenGraph Override” header: image: /assets/images/15236876694202/屏幕快照 2018-04-14 下午3.24.04 og_image: /assets/images/15236876694202/屏幕快照 2018-04-14 下午3.24.04 categories: Layout Uncategorized tags: edge case image layout last_modified_at: 2018-04-14T15:12:19-04:00 —</summary></entry></feed>
