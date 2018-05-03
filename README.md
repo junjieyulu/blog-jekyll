@@ -42,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 [GitHub Pages](https://pages.github.com/)
 
-[jekyll中文官网](http://jekyllcn.com/)
+[jekyll 中文翻译网站](http://jekyllcn.com/)
 
 [GitHub Help](https://help.github.com/categories/github-pages-basics/)
 
@@ -52,6 +52,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 [一步步在GitHub上创建博客主页-最新版 ](http://www.pchou.info/ssgithubPage/2014-07-04-build-github-blog-page-08.html)
 
-
-
+[jekyll 官方网站](https://jekyllrb.com)
 
